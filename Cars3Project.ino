@@ -2,6 +2,7 @@
 
 void setup() {
   // put your setup code here, to run once:
+  // look at slides if confused!!!
 
 }
 
